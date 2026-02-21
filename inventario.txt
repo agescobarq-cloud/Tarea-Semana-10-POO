@@ -1,5 +1,0 @@
-id|nombre|cantidad|precio
-1|pan|1|5.00
-2|queso|3|4.00
-3|carne|5|8.00
-4|aceite|3|6.00
